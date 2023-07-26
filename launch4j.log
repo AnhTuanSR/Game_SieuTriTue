@@ -1,0 +1,17 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\win 10\Desktop\g\Game_SieuTriTue\Sieu_Tri_Tue.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\win 10\Desktop\g\Game_SieuTriTue\.
+Java min ver:	1.008.000
+Java max ver:	
+Bundled JRE(s):	jre1.8.0_202
+Check launcher:	C:\Users\win 10\Desktop\g\Game_SieuTriTue\jre1.8.0_202\bin\javaw.exe (OK)
+Main class:	Home.Home
+Add classpath:	lib\AbsoluteLayout.jar
+Add classpath:	lib\mysql-connector-java-5.1.25.jar
+Launcher:	C:\Users\win 10\Desktop\g\Game_SieuTriTue\jre1.8.0_202\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\win 10\Desktop\g\Game_SieuTriTue\Sieu_Tri_Tue.exe;lib\AbsoluteLayout.jar;lib\mysql-connector-java-5.1.25.jar" Home.Home
+Args length:	140/32768 chars
+Exit code:	0
